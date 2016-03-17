@@ -1,0 +1,11 @@
+.footer{
+	width: 1350px;
+	height: 75px;
+	background-color: #343235;
+	text-align: center;
+	color: white;
+	margin-top: 70px;
+}
+.footer #auo{
+	padding-top:25px;
+}

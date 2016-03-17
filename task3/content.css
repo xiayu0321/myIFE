@@ -1,0 +1,61 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.content{
+	background-color: #eee;
+    padding: 20px 20px;
+	margin: 20px 20px;
+	width: auto;
+	border: 1px solid #999;
+	overflow: hidden;
+}
+.first{
+	width: 200px;
+	height: 120px; 
+	border: 1px solid #999;
+	background-color:white;
+	font-family:微软雅黑;
+	font-size: 22px;
+	font-weight: 400;
+	text-align: right;
+	float: left;
+}
+.first img{
+	position: relative;
+	left: 20px;
+	top: 20px;
+	width: 80px;
+	height: 80px;
+	border: 1px solid #999;
+	background-color: #eee;
+	float: left;
+}
+.team-intro{
+	width: auto;
+	padding: 20px 20px;
+	margin-left: 220px;
+	margin-right: 140px;
+	margin-top: -120px;
+	background-color: white;
+	border: 1px solid #999;
+	float: left;
+}
+.numbers{
+	width:100px;
+	margin-left: 20px;
+	padding-left: 20px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin-top: -225px;
+	float: right;
+	background-color: white;
+	border: 1px solid #999;
+}
+.pho{
+	width: 80px;
+	height: 80px;
+	margin: 10px 0;
+	border: 1px solid #999;
+	float: left;
+}

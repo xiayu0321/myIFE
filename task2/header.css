@@ -1,0 +1,30 @@
+.header{
+	background-color:#343235;
+	width: 100%;
+	height: 55px;
+	padding-left: 40px;
+	padding-right: 200px;
+	padding-top: 10px;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+}
+#logo{
+	float: left;
+}
+.guide{
+	margin-left:700px;	
+}
+.guide li{
+    float: left;
+    list-style:#070508;
+    font-family:微软雅黑;
+    width:80px;
+    margin-right: 17px;
+    font-size: 12px;
+    font-weight: 600;
+    color: white;
+}
+.guide li:last-child{
+	color: #5c5a5b;
+}
